@@ -6,5 +6,5 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = git@github.com:venchoi/gitS.git
+	url = https://github.com/venchoi/gitS.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
